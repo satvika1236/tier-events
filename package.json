@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@clerk/nextjs": "^5.7.4",
+    "@microsoft/clarity": "^1.0.0",
+    "@supabase/supabase-js": "^2.53.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "typescript": "^5.9.2"
+  }
+}
